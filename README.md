@@ -45,5 +45,6 @@ A document outlining a security policy to be implemented in a system in the desi
 # Security Policy Presentation
 
 A Presentation describing how the security policy is implemented and why it is valuable 
+
 youtube video link: https://www.youtube.com/watch?v=M3iG2e6CnVA
 
