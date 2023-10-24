@@ -38,3 +38,12 @@ Encryption adds an extra layer of defense against data attacks, as without knowi
 
 In the static code analysis zip file we contain a file QuestionableCode.cpp and conduct static code analysis upon it. Static Code Analysis allows us to view potential vulnerabilities that may not be immediately obvious at compile or run time.
 
+# Security Policy
+
+A document outlining a security policy to be implemented in a system in the design phase
+
+# Security Policy Presentation
+
+A Presentation describing how the security policy is implemented and why it is valuable 
+youtube video link: https://www.youtube.com/watch?v=M3iG2e6CnVA
+
